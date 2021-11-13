@@ -135,6 +135,9 @@ System.out.println("学生" + friend.name + "所选课程:\n" + friend.CourseLis
         System.out.println("学生" + me.name + "所选课程:\n" + me.CourseList[0] + "\n" + me.CourseList[1]);
 ```
 
+## 运行代码截图
+![截图](https://github.com/TakiSakura/Experiment2/blob/11d3f54f40b53fec1c7eb0f895502308c6052cb0/%E6%88%AA%E5%B1%8F2021-11-13%20%E4%B8%8B%E5%8D%883.52.24.png)
+
 ## 感想与体会
 
 这次实验初步运用了继承和修饰符的使用。继承是能将父类中的属性和方法还有构造方法在子类中调用，我认为目的是能将一些多个类中重复的属性和构造方法在父类中定义， 并将这多个子类同时指向父类，这样将能节省时间，也能让代码简洁易懂\
